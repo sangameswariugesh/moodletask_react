@@ -1,0 +1,8 @@
+.ga{
+    background-image:linear-gradient(to right,rgb(229, 189, 88),rgb(226, 185, 126));
+    height: 100vh;  
+}
+.cl{
+    display:grid;
+    place-items:center;
+}

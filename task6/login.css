@@ -1,0 +1,33 @@
+.ma{background-image:linear-gradient(to right,rgb(228,9,126),rgb(189,11,180));
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ma2{
+    background-color: white;
+    border-radius: 50px;
+}
+.in{
+    background-color: transparent;
+    outline: none;
+    border: none;
+}
+.in2{
+    background-color: whitesmoke;
+    border: 1px solid black;
+    padding: 5px;
+    border-radius: 30px;
+}
+.in1{
+    border-radius: 20px;
+    width: 35%;
+    background-color:rgb(24, 195, 24);
+    color: white;
+    outline: none;
+    border: none;
+    padding: 10px;
+}
+.s{
+    color: rgb(114, 238, 32);
+}

@@ -1,0 +1,16 @@
+.so{
+    background-image: url("D:\moodle_task\src\component\task4\img1.jpg");
+    height: 600px;
+}
+.btn1{
+    background-color: yellow;
+    border-radius: 10px;
+}
+.btn2{
+    background-color:white;
+border-radius: 10px;
+}
+.btn3{
+    background-color: blue;
+    border-radius: 10px;
+}

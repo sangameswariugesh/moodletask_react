@@ -1,0 +1,7 @@
+.bg-date{
+    background-image: url("https://thumbs.dreamstime.com/z/concept-calculating-savings-white-background-concept-calculating-savings-white-background-113567024.jpg");
+    height: 100vh;
+    text-align: center;
+    display: grid;
+    place-items: center;
+}

@@ -1,0 +1,19 @@
+.im{
+    float:right;
+}
+.ca1{
+    border-radius:50px;
+    border-top:5px solid red ;
+}
+.ca2{
+    border-radius:50px;
+    border-top:5px solid yellow ;
+}
+.ca3{
+    border-radius:50px;
+    border-top:5px solid blue ;
+}
+.ca4{
+    border-radius:50px;
+    border-top:5px solid green ;
+}

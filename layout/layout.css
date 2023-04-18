@@ -1,0 +1,50 @@
+.cent{
+    display: grid;
+    place-items: center;
+}
+.siz{
+    font-size: 1.5rem;
+}
+.bg-navimg{
+    background-image: url("https://th.bing.com/th/id/OIP.UWXRlFwmzbCgIk4QR9nxdwHaFX?w=226&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7");
+    background-size: cover;
+}
+.bg-trans{
+    background-color: transparent !important;
+}
+.bord{
+    border-radius: 5px;
+}
+.nonline{
+    outline: none;
+    border: none;
+    background-color: transparent;
+}
+.btn-nav{
+    background-color: rgb(112, 8, 116);
+    color: beige;
+}
+.text-col{
+    color: rgb(112, 8, 116);
+}
+.btn-drop{
+    border: 2px solid rgb(112, 8, 116);
+    color:rgb(112, 8, 116) ;
+    width:250px;
+    margin-left:20px;
+}
+.img-nav{
+width:50px;
+height:50px;
+margin:20px;
+}
+.cardimg{
+    height:200px;
+}
+.btn-drop1{
+    border: 2px solid rgb(112, 8, 116);
+    color:rgb(112, 8, 116) ;
+    margin:20px ;
+}
+.bookmark{
+}
